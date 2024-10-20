@@ -1,1 +1,1 @@
-Fiz para um desafio tecnico para um estagio, ainda precisei pesquisar bastante e pedir ajuda algumas vezes para o gpt, é o segundo codigo que faço de java, ainda to bem no inicio dos estudos de java
+Fiz para um desafio tecnico para um estagio, ainda precisei pesquisar bastante e pedir ajuda algumas vezes para o gpt, é o segundo codigo que faço de java, ainda to bem no inicio dos estudos de java, o programa console tem a função de ver se o numero que vc digitou faz parte da sequencia Fibonacci, e tbm verifica quantas vezes uma letra aparece na string que vc digitar.
